@@ -4,7 +4,7 @@
 
 **Data Analyst & CS Graduate** — turning raw data into decisions that matter.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahafalwaranbi)
 [![GitHub](https://img.shields.io/badge/GitHub-rahafw-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahafw)
 
 </div>
