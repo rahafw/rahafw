@@ -48,7 +48,7 @@ Currently building portfolio projects and looking for opportunities where data c
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### ⚽ FIFA World Cup History Dashboard
 > *Python · Pandas · Power BI · DAX*
@@ -70,7 +70,7 @@ Developed as part of the **Saudi Digital Academy Bootcamp in partnership with Le
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.Sc. in Computer Science**
 Imam Abdulrahman University — 2025
